@@ -16,6 +16,7 @@ gem 'pry-byebug'
 gem 'haml-rails'
 gem 'erb2haml'
 gem 'bootstrap'
+gem 'bcrypt', '~> 3.1.7'
 
 
 group :development, :test do
